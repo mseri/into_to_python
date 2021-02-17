@@ -17,3 +17,8 @@ Note that the lecture notes are not self-contained, during the course I was addi
 Online there are many many good resources, with many more details. I tried to link the ones I know and liked, and sometimes overlooked while preparing these notes. 
 If something is missing pleas let me know and I will integrate the comments and the links.
 You can click on the binder badge to directly run online an interactive version of these notebooks.
+
+## Update (17.02.2021)
+Lots of very good material has kept appearing since I wrote these. Have a look at:
+- [Python Programming And Numerical Methods: A Guide For Engineers And Scientists¶](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)
+- [Learning Scientific Programming with Python](https://scipython.com/)
